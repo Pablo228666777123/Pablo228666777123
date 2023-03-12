@@ -1,6 +1,5 @@
-# PART ARTEMISTA
 a = int(input())
-if a % 2 == 0:
-    print('чётное')
+if a % 3 == 0:
+    print('делится на 3')
 else:
-    print('нечётное')
+    print('не делится на 3')
